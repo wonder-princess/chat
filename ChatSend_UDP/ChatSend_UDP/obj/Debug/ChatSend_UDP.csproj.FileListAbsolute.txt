@@ -1,0 +1,6 @@
+C:\Users\sekai\source\repos\ChatSend_UDP\ChatSend_UDP\bin\Debug\ChatSend_UDP.exe.config
+C:\Users\sekai\source\repos\ChatSend_UDP\ChatSend_UDP\bin\Debug\ChatSend_UDP.exe
+C:\Users\sekai\source\repos\ChatSend_UDP\ChatSend_UDP\bin\Debug\ChatSend_UDP.pdb
+C:\Users\sekai\source\repos\ChatSend_UDP\ChatSend_UDP\obj\Debug\ChatSend_UDP.csprojAssemblyReference.cache
+C:\Users\sekai\source\repos\ChatSend_UDP\ChatSend_UDP\obj\Debug\ChatSend_UDP.exe
+C:\Users\sekai\source\repos\ChatSend_UDP\ChatSend_UDP\obj\Debug\ChatSend_UDP.pdb

@@ -1,0 +1,6 @@
+C:\Users\sekai\source\repos\ChatReceive_UDP\ChatReceive_UDP\bin\Debug\ChatReceive_UDP.exe.config
+C:\Users\sekai\source\repos\ChatReceive_UDP\ChatReceive_UDP\bin\Debug\ChatReceive_UDP.exe
+C:\Users\sekai\source\repos\ChatReceive_UDP\ChatReceive_UDP\bin\Debug\ChatReceive_UDP.pdb
+C:\Users\sekai\source\repos\ChatReceive_UDP\ChatReceive_UDP\obj\Debug\ChatReceive_UDP.csprojAssemblyReference.cache
+C:\Users\sekai\source\repos\ChatReceive_UDP\ChatReceive_UDP\obj\Debug\ChatReceive_UDP.exe
+C:\Users\sekai\source\repos\ChatReceive_UDP\ChatReceive_UDP\obj\Debug\ChatReceive_UDP.pdb
